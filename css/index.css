@@ -92,9 +92,9 @@
   }
 
   .container .prgress span:not(.pro-s).active {
-      outline: 2px solid #ACA7CB;
-      box-shadow: 1px 1px 4px 0 #ababab4d;
-      transform: scale(0.9);
+     outline: rgb(172, 167, 203) solid 2px;
+    box-shadow: rgba(171, 171, 171, 0.3) 1px 1px 4px 0px;
+    transform: scale(0.9);
       transition-duration: .3s;
       animation: slide-in-top 0.3s both;
 
